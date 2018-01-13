@@ -1,5 +1,8 @@
 # docker-gitbucket
 Docker for GitBucket
 
-# Licence
+## Environment
+- GITBUCKET_JAVA_OPTS
+
+## Licence
 see https://github.com/takezoe/gitbucket
