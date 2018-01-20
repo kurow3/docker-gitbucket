@@ -6,7 +6,7 @@ Docker for GitBucket
 - 29418 - SSH access
 
 ## Volumes
-- /gitbucket - data
+- /gitbucket - HOME
 
 ## Environment
 - GITBUCKET_JAVA_OPTS - JVM options
